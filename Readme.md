@@ -6,4 +6,4 @@ My Email:1694815257@qq.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etheral12138)](https://github.com/etheral12138/github-readme-stats)
 
-Hope you find something in my repository!
+Hope you find something useful in my repository!
