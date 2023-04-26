@@ -15,4 +15,3 @@ My Email:1694815257@qq.com
 
 Hope you find something useful in my repository!
 
-![](https://github.com/etheral12138/etheral12138/blob/output/github-contribution-grid-snake.svg)
