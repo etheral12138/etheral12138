@@ -14,3 +14,5 @@ My Email:1694815257@qq.com
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etheral12138&theme=tokyonight)](https://github.com/etheral12138/github-readme-stats)
 
 Hope you find something useful in my repository!
+
+![](https://github.com/etheral12138/etheral12138/blob/output/github-contribution-grid-snake.svg)
