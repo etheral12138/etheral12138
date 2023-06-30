@@ -25,7 +25,6 @@ My School:
   </div>
   <div align="center">
     <img src="https://count.getloli.com/get/@:etheral12138" alt=":etheral12138" />
-    <img src="https://github-readme-stats.vercel.app/api?username=etheral12138&count_private=true&show_icons=true&theme=tokyonight" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etheral12138&theme=tokyonight" />
   </div>
 </center>
