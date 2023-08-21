@@ -26,15 +26,16 @@ My internship experiences:
 ![](https://img.shields.io/badge/-JavaScript-eeca03?style=flat-square&logo=javascript&logoColor=fff) -->
 <!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=etheral12138&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/etheral12138/github-readme-stats)    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etheral12138&theme=tokyonight)](https://github.com/etheral12138/github-readme-stats) -->
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+  ![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
+  ![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+  ![Vite](https://img.shields.io/badge/Vite-965DF5?logo=Vite&logoColor=4FC08D)
+  ![Koa](https://img.shields.io/badge/Koa.js-404D59?logo=Koa)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+  ![Less](https://img.shields.io/badge/Less-23355A?logo=less&logoColor=white)
 <center>
-  <div align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img  alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img  alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img  alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"  alt="git" height='42px'/> </a>
-<a href="https://www.python.org" target="_blank"><img alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-  </div>
   <div align="center">
     <img src="https://count.getloli.com/get/@:etheral12138" alt=":etheral12138" />
   <img src="https://github-readme-stats.vercel.app/api?username=etheral12138&count_private=true&show_icons=true&theme=tokyonight" />
