@@ -10,7 +10,7 @@ My School:
 
 ![](https://etheral.oss-cn-shanghai.aliyuncs.com/images/20230426154020.png)
 
-My internship experience:
+My internship experiences:
 
 
 2023.7 上海见象信息
