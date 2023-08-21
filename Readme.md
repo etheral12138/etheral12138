@@ -11,8 +11,13 @@ My School:
 ![](https://etheral.oss-cn-shanghai.aliyuncs.com/images/20230426154020.png)
 
 My internship experience:
+
+
 2023.7 上海见象信息
+
+
 2023.7-至今 深圳司数科技
+
 
 ## 🌟 **Platforms 、My Skills & Tools**
 <!-- ![](https://img.shields.io/badge/Windows11-0078d6?style=flat-square&logo=windows&logoColor=fff)
