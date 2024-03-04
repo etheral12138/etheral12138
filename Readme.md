@@ -46,9 +46,9 @@ My internship experiences:
 
 <center>
   <div align="center">
-    <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
+<!--     <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" /> -->
       <img  src="https://github-readme-streak-stats.herokuapp.com?user=etheral12138&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />    
-    <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
+<!--     <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" /> -->
   </div>
 </center>
 
