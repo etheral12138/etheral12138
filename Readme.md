@@ -2,13 +2,9 @@ Hey 👋, I'm  etheral!
 Welcome to my Github!
 
 
-My Email:1694815257@qq.com
+My Email:liuzequn12138@gmail.com
 
 
-My School:
-
-
-![](https://etheral.oss-cn-shanghai.aliyuncs.com/images/20230426154020.png)
 
 My internship experiences:
 
